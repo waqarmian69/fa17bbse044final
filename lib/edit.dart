@@ -28,6 +28,7 @@ class _EditNotePageState extends State<EditNotePage> {
   bool isNoteNew = true;
   FocusNode titleFocus = FocusNode();
   FocusNode contentFocus = FocusNode();
+//backup
 
   NotesModel currentNote;
   TextEditingController titleController = TextEditingController();
